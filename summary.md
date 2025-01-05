@@ -1,5 +1,6 @@
 ## Class 1 
 [A14 Advanced Workshop - Class 1](https://vimeo.com/834584279/a14e0b62e6)
+1:15:30
 ### Structures
 1. 14DTE Broken Wing Butterfly
     - Upper Long -> ATM
@@ -24,7 +25,7 @@
     - 14DTE on Friday Mornings (generally 1 hr after market opens)
     - All trades and adjustments are done using put options
     - Start with 1 lot 40/60 BWB as follows:
-        - Choose ATM striek for the upper long strike (preferably the 10 pt strike closest to ATM)
+        - Choose ATM strike for the upper long strike (preferably the 10 pt strike closest to ATM)
         - Short strike is 40 points below the upper long strike 
         - Start with lower strike 60 points below the short strike 
         - Raise or lower the lower strike in order to make a 1 lot BWB delta slightly flat to slightly negative (I prefer a little negative). 
